@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dhldemoen/static/css/main.b47d341c.css",
+    "main.js": "/dhldemoen/static/js/main.339393b4.js",
+    "static/js/453.b473ee89.chunk.js": "/dhldemoen/static/js/453.b473ee89.chunk.js",
+    "static/media/logo.png": "/dhldemoen/static/media/logo.8cb3bcace5f15800277c.png",
+    "index.html": "/dhldemoen/index.html",
+    "main.b47d341c.css.map": "/dhldemoen/static/css/main.b47d341c.css.map",
+    "main.339393b4.js.map": "/dhldemoen/static/js/main.339393b4.js.map",
+    "453.b473ee89.chunk.js.map": "/dhldemoen/static/js/453.b473ee89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b47d341c.css",
+    "static/js/main.339393b4.js"
+  ]
+}
