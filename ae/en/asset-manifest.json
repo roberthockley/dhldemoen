@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dhldemoen/static/css/main.f855e6bc.css",
-    "main.js": "/dhldemoen/static/js/main.43a9bb4b.js",
-    "static/js/453.fdc5ffb7.chunk.js": "/dhldemoen/static/js/453.fdc5ffb7.chunk.js",
-    "static/media/12975.jpg": "/dhldemoen/static/media/12975.f72a91cff9ca4d24e2b2.jpg",
-    "index.html": "/dhldemoen/index.html",
-    "main.f855e6bc.css.map": "/dhldemoen/static/css/main.f855e6bc.css.map",
-    "main.43a9bb4b.js.map": "/dhldemoen/static/js/main.43a9bb4b.js.map",
-    "453.fdc5ffb7.chunk.js.map": "/dhldemoen/static/js/453.fdc5ffb7.chunk.js.map"
+    "main.css": "/dhldemoen/ae/ar/static/css/main.f855e6bc.css",
+    "main.js": "/dhldemoen/ae/ar/static/js/main.a4902285.js",
+    "static/js/453.fdc5ffb7.chunk.js": "/dhldemoen/ae/ar/static/js/453.fdc5ffb7.chunk.js",
+    "static/media/12975.jpg": "/dhldemoen/ae/ar/static/media/12975.f72a91cff9ca4d24e2b2.jpg",
+    "index.html": "/dhldemoen/ae/ar/index.html",
+    "main.f855e6bc.css.map": "/dhldemoen/ae/ar/static/css/main.f855e6bc.css.map",
+    "main.a4902285.js.map": "/dhldemoen/ae/ar/static/js/main.a4902285.js.map",
+    "453.fdc5ffb7.chunk.js.map": "/dhldemoen/ae/ar/static/js/453.fdc5ffb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.43a9bb4b.js"
+    "static/js/main.a4902285.js"
   ]
 }
